@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\nikita\Self Learning\Challenges\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3966766278.index
+1972376675.index
